@@ -11,7 +11,8 @@
 
 **Тест случаеви според Every Branch**
 
-[EveryBranch1.xlsx](https://github.com/pavlestojanovski/SI_2024_lab2_183065/files/15419647/EveryBranch1.xlsx)
+![everybranchh](https://github.com/pavlestojanovski/SI_2024_lab2_183065/assets/63550181/6b28fbfb-d1cf-4af1-a31c-7a84c2361737)
+
 
 
 
