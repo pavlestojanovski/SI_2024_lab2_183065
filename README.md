@@ -2,7 +2,8 @@
 
 **Control flow Graph**
 
-![CFG2 drawio](https://github.com/pavlestojanovski/SI_2024_lab2_183065/assets/63550181/5a72ef34-1917-4d0f-84a6-b29f74a4b987)
+![cfgg drawio](https://github.com/pavlestojanovski/SI_2024_lab2_183065/assets/63550181/65535885-00f3-461e-95a4-7ad954991256)
+
 
 **Цикломатска комплексност**
 
