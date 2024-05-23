@@ -1,5 +1,7 @@
 Павле Стојановски 183065
+
 **Control flow Graph**
+
 ![CFG2 drawio](https://github.com/pavlestojanovski/SI_2024_lab2_183065/assets/63550181/5a72ef34-1917-4d0f-84a6-b29f74a4b987)
 
 **Цикломатска комплексност**
